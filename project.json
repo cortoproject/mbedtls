@@ -1,0 +1,11 @@
+{
+    "id": "mbedtls",
+    "type": "package",
+    "value": {
+        "description": "mbed TLS package for corto",
+        "author": "Sander Mertens",
+        "version": "2.6.0",
+        "language": "c",
+        "managed": false
+    }
+}
