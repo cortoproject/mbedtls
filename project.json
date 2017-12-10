@@ -3,7 +3,7 @@
     "type": "package",
     "value": {
         "description": "mbed TLS package for corto",
-        "author": "Sander Mertens",
+        "author": "ARM Limited",
         "version": "2.6.0",
         "language": "c",
         "managed": false
