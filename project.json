@@ -6,6 +6,9 @@
         "author": "ARM Limited",
         "version": "2.6.0",
         "language": "c",
-        "managed": false
+        "managed": false,
+        "repository": "https://github.com/cortoproject/mbedtls",
+        "url": "https://tls.mbed.org/",
+        "license": "Apache 2.0"
     }
 }
